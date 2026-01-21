@@ -76,6 +76,8 @@ npm install
 
 ---
 
+## find this app here: https://next-social-1td5.onrender.com
+
 ## Getting Started
 
 ### Prerequisites
@@ -124,6 +126,7 @@ http://localhost:3000
 
 ---
 
+<<<<<<< HEAD
 ## Scripts
 
 | Script          | Description              |
@@ -176,3 +179,7 @@ Full-Stack Web Developer
 GitHub: [https://github.com/fiqash]
 
 ---
+=======
+
+
+>>>>>>> fdc0f2f1df2bab8aeedfa2c233cb284aa9f83342
