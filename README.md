@@ -91,7 +91,7 @@ npm install
 ### Installation
 
 ```bash
-git clone https://github.com/your-fiqash/next-social.git
+git clone https://github.com/fiqash/next-social.git
 cd next-social
 npm install
 ```
